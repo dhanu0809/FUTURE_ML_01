@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## 🔗 Live Demo
-🚀 [Click here to try the app](https://your-streamlit-link-here)
+🚀 [Click here to try the app](https://futureml01-ggvglvxrezet2pffipdjrr.streamlit.app/)
 
 ---
 
